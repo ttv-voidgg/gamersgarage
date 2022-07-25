@@ -240,7 +240,7 @@ export default function Example() {
                         </svg>
                         <p className="relative">
                           Everyone is welcome to be a part of this exciting adventure. We will add more servers
-                          as we gain more friends to make our community grow bigger. 
+                          as we gain more friends and as our community grow bigger. 
                         </p>
                       </div>
 
