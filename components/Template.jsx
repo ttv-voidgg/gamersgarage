@@ -284,11 +284,11 @@ export default function Example() {
                     </div>
                   ))}
                 </dl>
-                <div className="mt-10">
+                {/* <div className="mt-10">
                   <a href="#" className="text-base font-medium text-rose-500">
                     Learn more about how we're changing the world&nbsp&rarr;
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
